@@ -140,7 +140,7 @@ The report must include the following things;
 
 #### Folder Architecture
 
-**project/
+project/
 │
 ├── app.py
 ├── templates/
@@ -161,5 +161,3 @@ The report must include the following things;
 ├── models.py
 ├── forms.py
 ├── config.py
-
-**
