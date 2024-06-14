@@ -138,4 +138,4 @@ The report must include the following things;
   This is a live document and will be updated with more details (wireframe) We will freeze the problem statement on or before 19th May 2024, beyond which any modifications to the statement will be communicated via proper announcements.
   The project has to be submitted as a single zip file.
 
-#### [Folder Architecture]
+#### [Folder Architecture][https://github.com/Zabiullahkhan/MAD_1/blob/main/Folder_architecture.png]
