@@ -137,3 +137,29 @@ The report must include the following things;
 
   This is a live document and will be updated with more details (wireframe) We will freeze the problem statement on or before 19th May 2024, beyond which any modifications to the statement will be communicated via proper announcements.
   The project has to be submitted as a single zip file.
+
+#### Folder Architecture
+
+**project/
+│
+├── app.py
+├── templates/
+│   ├── base.html
+│   ├── login.html
+│   ├── register.html
+│   ├── admin_dashboard.html
+│   ├── sponsor_dashboard.html
+│   ├── influencer_dashboard.html
+│   ├── create_campaign.html
+│   ├── update_campaign.html
+│   ├── create_ad_request.html
+│   ├── update_ad_request.html
+│   
+├── instance/
+│   ├──database.db
+│   
+├── models.py
+├── forms.py
+├── config.py
+
+**
